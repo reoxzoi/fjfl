@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "src": "src/App.vue"
+    }
+  ],
+  "components": [
+    {
+      "name": "DynamicLimitConsole",
+      "src": "src/App.vue"
+    }
+  ]
+}
